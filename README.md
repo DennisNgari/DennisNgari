@@ -1,7 +1,7 @@
 
 
 
-# Hi! 👋 I'm [Dennis Ngari] 💻
+# Hi! 👋 I'm Dennis Ngari 💻
 
 I'm a FullStack Web Developer.
 
