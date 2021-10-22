@@ -7,7 +7,7 @@ I'm a FullStack Web Developer.
 
 ## ⚡ Github Stats
 
-![Dennis Ngari's Github Stats](https://github-readme-stats.vercel.app/api?username=@ngaridennis&theme=dark)
+![Dennis Ngari's Github Stats](https://github-readme-stats.vercel.app/api?username=DennisNgari&theme=dark)
 
 ### Let's Connect 🔗
 
